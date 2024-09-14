@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"TSATSKIS3311","l":"edu.java.lab1"}];updateSearchResults();
